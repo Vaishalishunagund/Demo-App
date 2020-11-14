@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>887392527882-vk54dgc685vqbbi8dbid8rbessfbjt8u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.887392527882-vk54dgc685vqbbi8dbid8rbessfbjt8u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBbDRTC5g720n3uSef8nLou6jkhlU1Ox54</string>
+	<key>GCM_SENDER_ID</key>
+	<string>887392527882</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Agaze.Demo-App</string>
+	<key>PROJECT_ID</key>
+	<string>fir-app-orahi</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-app-orahi.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:887392527882:ios:f01ec8cd96822e3ca3a1f3</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-app-orahi.firebaseio.com</string>
+</dict>
+</plist>
